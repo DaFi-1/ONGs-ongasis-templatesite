@@ -39,8 +39,6 @@ Site modelo para ONGs, criado como contribuição voluntária sem fins lucrativo
 
 *Captura 6*
 
----
-
 ## Agradecimento final
 
 Agradeço também à **ONG** por me permitir **mostrar o meu trabalho**. Foi uma honra fazer parte deste projeto.
