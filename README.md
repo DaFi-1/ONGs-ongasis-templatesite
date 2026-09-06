@@ -6,7 +6,7 @@
 
 **Data de finalização: 30 de agosto de 2026**
 
-## 💌 Agradecimento
+## Agradecimento
 
 Agradeço à **ONG** por ter aceitado a minha **contribuição sem fins lucrativos** 🤝. Foi uma experiência **muito boa e satisfatória** poder contribuir com a ONG ❤️.
 
