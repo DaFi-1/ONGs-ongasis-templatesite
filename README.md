@@ -22,11 +22,8 @@ Site modelo para ONGs, criado como contribuição voluntária sem fins lucrativo
 
 *Captura 1*
 
-
 <img width="938" height="490" alt="image" src="https://github.com/user-attachments/assets/cc61bc11-c9a4-4d04-93f5-5045b50aa1fe" />
-
 *Captura 2*
-
 
 <img width="919" height="594" alt="image" src="https://github.com/user-attachments/assets/df7f85e4-eb1f-420d-b65f-380d34670a9e" />
 
@@ -35,8 +32,6 @@ Site modelo para ONGs, criado como contribuição voluntária sem fins lucrativo
 <img width="929" height="717" alt="image" src="https://github.com/user-attachments/assets/25cc8305-94d3-4ecb-a9e4-78d550462009" />
 
 *Captura 4*
-
-
 
 <img width="930" height="604" alt="image" src="https://github.com/user-attachments/assets/6c15209f-f260-4a98-943a-66a47b2a7066" />
 
