@@ -52,8 +52,6 @@ Agradeço também à **ONG** por me permitir **mostrar o meu trabalho**. Foi uma
 
 ## Licença
 
-<div align="center">
-
 **© Todos os direitos reservados.**
 
 Este repositório está sob a licença de **sistema de retenção de direitos autorais**.
@@ -61,5 +59,3 @@ Este repositório está sob a licença de **sistema de retenção de direitos au
 **Proibido:** copiar, modificar, distribuir, publicar, vender ou utilizar qualquer conteúdo deste repositório.
 
 **Permitido:** apenas **visualizar** o conteúdo.
-
-</div>
