@@ -12,7 +12,7 @@ Agradeço à **ONG** por ter aceitado a minha **contribuição sem fins lucrativ
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <img width="928" height="588" alt="image" src="https://github.com/user-attachments/assets/f9776486-0ba6-4bb1-865e-12322de2de06" />
 
