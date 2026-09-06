@@ -21,6 +21,8 @@ Agradeço à **ONG** por ter aceitado a minha **contribuição sem fins lucrativ
 
 <img width="938" height="490" alt="image" src="https://github.com/user-attachments/assets/cc61bc11-c9a4-4d04-93f5-5045b50aa1fe" />
 
+*Captura 2*
+
 
 <img width="919" height="594" alt="image" src="https://github.com/user-attachments/assets/df7f85e4-eb1f-420d-b65f-380d34670a9e" />
 
