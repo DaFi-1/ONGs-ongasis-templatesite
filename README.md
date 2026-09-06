@@ -6,7 +6,7 @@
 
 ## FINALIZADO
 
-**📅 Data de finalização: 30 de agosto de 2026** ⭐
+**Data de finalização: 30 de agosto de 2026**
 
 </div>
 
