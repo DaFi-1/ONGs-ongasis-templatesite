@@ -58,8 +58,8 @@ Agradeço também à **ONG** por me permitir **mostrar o meu trabalho**. Foi uma
 
 Este repositório está sob a licença de **sistema de retenção de direitos autorais**.
 
-🔒 **Proibido:** copiar, modificar, distribuir, publicar, vender ou utilizar qualquer conteúdo deste repositório.
+**Proibido:** copiar, modificar, distribuir, publicar, vender ou utilizar qualquer conteúdo deste repositório.
 
-✅ **Permitido:** apenas **visualizar** o conteúdo.
+**Permitido:** apenas **visualizar** o conteúdo.
 
 </div>
