@@ -3,7 +3,6 @@
 <div align="center">
 
 ![Status](https://img.shields.io/badge/FINALIZADO-Conclu%C3%ADdo-28a745?style=for-the-badge)
-![Licença](https://img.shields.io/badge/Sem_fins_lucrativos-Contribui%C3%A7%C3%A3o-0d6efd?style=for-the-badge)
 
 ---
 
