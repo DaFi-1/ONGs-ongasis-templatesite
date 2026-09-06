@@ -1,14 +1,25 @@
-# ONGs-ongasis-templatesite
+# 🌍 ONGs-ongasis-templatesite
 
-## FINALIZADO
+<div align="center">
 
-**Data de finalização: 30 de agosto de 2026**
-
-Agradeço à **ONG** por ter aceitado a minha **contribuição sem fins lucrativos**. Foi uma experiência **muito boa e satisfatória** poder contribuir com a ONG.
+![Status](https://img.shields.io/badge/FINALIZADO-Conclu%C3%ADdo-28a745?style=for-the-badge)
+![Licença](https://img.shields.io/badge/Sem_fins_lucrativos-Contribui%C3%A7%C3%A3o-0d6efd?style=for-the-badge)
 
 ---
 
-## Screenshots
+## 🏁 FINALIZADO
+
+**📅 Data de finalização: 30 de agosto de 2026** ⭐
+
+</div>
+
+## 💌 Agradecimento
+
+Agradeço à **ONG** por ter aceitado a minha **contribuição sem fins lucrativos** 🤝. Foi uma experiência **muito boa e satisfatória** poder contribuir com a ONG ❤️.
+
+---
+
+## 📸 Screenshots
 
 <img width="928" height="588" alt="image" src="https://github.com/user-attachments/assets/f9776486-0ba6-4bb1-865e-12322de2de06" />
 
@@ -26,22 +37,24 @@ Agradeço à **ONG** por ter aceitado a minha **contribuição sem fins lucrativ
 
 <img width="878" height="763" alt="image" src="https://github.com/user-attachments/assets/04989e0c-1529-4796-b5f1-dd034581a6b7" />
 
+---
 
+## 🙏 Agradecimento final
 
+Agradeço também à **ONG** por me permitir **mostrar o meu trabalho** 📂. Foi uma honra fazer parte deste projeto.
 
+---
 
+## ⚖️ Licença
 
+<div align="center">
 
+**© Todos os direitos reservados.**
 
+Este repositório está sob a licença de **sistema de retenção de direitos autorais**.
 
+🔒 **Proibido:** copiar, modificar, distribuir, publicar, vender ou utilizar qualquer conteúdo deste repositório.
 
+✅ **Permitido:** apenas **visualizar** o conteúdo.
 
-
-
-
-
-
-
-
-
-
+</div>
