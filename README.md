@@ -30,6 +30,8 @@ Agradeço à **ONG** por ter aceitado a minha **contribuição sem fins lucrativ
 
 <img width="929" height="717" alt="image" src="https://github.com/user-attachments/assets/25cc8305-94d3-4ecb-a9e4-78d550462009" />
 
+*Captura 4*
+
 
 
 <img width="930" height="604" alt="image" src="https://github.com/user-attachments/assets/6c15209f-f260-4a98-943a-66a47b2a7066" />
