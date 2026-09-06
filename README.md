@@ -51,8 +51,8 @@ Agradeço também à **ONG** por me permitir **mostrar o meu trabalho**. Foi uma
 
 Este repositório e todo o seu conteúdo estão protegidos por direitos autorais.
 
-**Proibido:** copiar, modificar, distribuir, publicar, vender ou utilizar qualquer conteúdo deste repositório.
+- **Proibido:** copiar, modificar, distribuir, publicar, vender ou utilizar qualquer conteúdo deste repositório.
 
-**Permitido:** apenas **visualizar** o conteúdo.
+- **Permitido:** apenas **visualizar** o conteúdo.
 
 Em caso de dúvidas ou pedidos de autorização, entre em contato com o autor.
