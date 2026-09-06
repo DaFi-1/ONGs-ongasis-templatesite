@@ -1,14 +1,10 @@
 # ONGs-ongasis-templatesite
 
-<div align="center">
-
 ---
 
 ## FINALIZADO
 
 **Data de finalização: 30 de agosto de 2026**
-
-</div>
 
 ## 💌 Agradecimento
 
