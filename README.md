@@ -8,7 +8,7 @@
 
 ## Agradecimento
 
-Agradeço à **ONG** por ter aceitado a minha **contribuição sem fins lucrativos** 🤝. Foi uma experiência **muito boa e satisfatória** poder contribuir com a ONG ❤️.
+Agradeço à **ONG** por ter aceitado a minha **contribuição sem fins lucrativos**. Foi uma experiência **muito boa e satisfatória** poder contribuir com a ONG.
 
 ---
 
