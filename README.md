@@ -44,7 +44,7 @@ Agradeço à **ONG** por ter aceitado a minha **contribuição sem fins lucrativ
 
 ---
 
-## 🙏 Agradecimento final
+## Agradecimento final
 
 Agradeço também à **ONG** por me permitir **mostrar o meu trabalho** 📂. Foi uma honra fazer parte deste projeto.
 
