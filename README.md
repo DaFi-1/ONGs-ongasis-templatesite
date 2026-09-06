@@ -50,7 +50,7 @@ Agradeço também à **ONG** por me permitir **mostrar o meu trabalho**. Foi uma
 
 ---
 
-## ⚖️ Licença
+## Licença
 
 <div align="center">
 
