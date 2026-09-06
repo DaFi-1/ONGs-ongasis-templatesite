@@ -2,11 +2,9 @@
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/FINALIZADO-Conclu%C3%ADdo-28a745?style=for-the-badge)
-
 ---
 
-## 🏁 FINALIZADO
+## FINALIZADO
 
 **📅 Data de finalização: 30 de agosto de 2026** ⭐
 
