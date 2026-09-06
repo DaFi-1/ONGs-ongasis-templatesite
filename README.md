@@ -52,7 +52,7 @@ Agradeço também à **ONG** por me permitir **mostrar o meu trabalho**. Foi uma
 
 ## Licença
 
-**© Todos os direitos reservados.**
+### Todos os direitos reservados
 
 Este repositório está sob a licença de **sistema de retenção de direitos autorais**.
 
